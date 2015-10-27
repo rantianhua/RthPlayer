@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="darker_transparent">#C1000000</color>
+    <color name="list_bg_1">#ff65b4c1</color>
+    <color name="list_bg_10">#ff26a9bd</color>
+    <color name="list_bg_11">#ff31a967</color>
+    <color name="list_bg_2">#ff3896d7</color>
+    <color name="list_bg_3">#ff776ac1</color>
+    <color name="list_bg_4">#ff4ebd81</color>
+    <color name="list_bg_5">#ffe5a949</color>
+    <color name="list_bg_6">#ffea653d</color>
+    <color name="list_bg_7">#ffdd363e</color>
+    <color name="list_bg_8">#ffa0bf55</color>
+    <color name="list_bg_9">#ffc88ac9</color>
+    <!-- From: file:/Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_pause_video">Pause video</string>
+    <string name="accessibility_play_video">Play video</string>
+    <string name="accessibility_reload_video">Reload video</string>
+    <string name="accessibility_time_bar">Video player time bar</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">VideoPlayer</string>
+    <string name="empty">No video</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading_video">Loading video\u2026</string>
+    <string name="movie_label">Video player</string>
+    <string name="video_thumbnail">Video thumbnail</string>
+    <!-- From: file:/Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

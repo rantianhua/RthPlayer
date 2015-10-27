@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:4:5-28
+	xmlns:android
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:9:5-68:19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.devwoo.videoplayer.app.VideoActivity
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:15:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.devwoo.videoplayer.app.MovieActivity
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:23:9-67:20
+	android:label
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:24:13-68
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:26:17-66:29
+action#android.intent.action.VIEW
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:27:21-73
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:27:29-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:28:21-80
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:28:31-77
+category#android.intent.category.BROWSABLE
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:29:21-82
+	android:name
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:29:31-79
+data
+ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:30:21-51
+	android:scheme
+		ADDED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml:30:27-48
+uses-sdk
+INJECTED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:23.0.1] /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/AndroidManifest.xml

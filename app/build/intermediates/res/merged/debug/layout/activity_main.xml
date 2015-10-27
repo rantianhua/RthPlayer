@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    >
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/viewpager">
+
+        <android.support.v4.view.PagerTabStrip
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/pagertitle"
+            android:layout_gravity="top"
+            android:background="#a076ccc5"
+            />
+
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout><!-- From: file:/Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/res/layout/activity_main.xml -->
