@@ -10,57 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc9f093-c15d-4462-8f55-1d48befb8c5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/data/Music.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/data/MusicAdapter.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/ui/FooterProgressView$1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/ui/FooterProgressView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/ui/FooterProgressView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/fragment/FragmentMusic.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/fragment/FragmentMusic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/app/MovieActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/app/MovieActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/ui/MoviePlayer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/ui/MoviePlayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/Video.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/Video.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/app/VideoActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/app/VideoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/data/VideoDataAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/utils/VideoUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/devwoo/videoplayer/utils/VideoUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/ui/FooterProgressView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/ui/FooterProgressView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/fragment/FragmentMusic.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/fragment/FragmentMusic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/fragment/FragmentVideo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/fragment/FragmentVideo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/devwoo/videoplayer/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/devwoo/videoplayer/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/data/Video.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/data/Video.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/data/VideoDataAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/data/VideoDataAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/utils/VideoUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/utils/VideoUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/footer_progress.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/footer_progress.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/footer_progress.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/footer_progress.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_medio.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_medio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_medio.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_medio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/video_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/video_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/video_list_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/video_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8dc9f093-c15d-4462-8f55-1d48befb8c5a" name="Default" comment="" />
     <ignored path="VideoPlayer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -103,8 +53,8 @@
       <file leaf-file-name="FragmentMusic.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/fragment/FragmentMusic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39300698">
-              <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.43496504">
+              <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4396#4397#0" expanded="true" />
@@ -1653,8 +1603,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
-    <option name="y" value="52" />
+    <option name="x" value="26" />
+    <option name="y" value="35" />
     <option name="width" value="1920" />
     <option name="height" value="977" />
   </component>
@@ -2217,7 +2167,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="52" width="1920" height="977" extended-state="6" />
+    <frame x="26" y="35" width="1920" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2691,8 +2641,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/devwoo/videoplayer/fragment/FragmentMusic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39300698">
-          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.43496504">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#4396#4397#0" expanded="true" />
