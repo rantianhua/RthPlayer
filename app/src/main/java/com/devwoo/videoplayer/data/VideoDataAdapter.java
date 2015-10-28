@@ -20,7 +20,7 @@ public class VideoDataAdapter extends CursorAdapter {
 	private static final String TAG = "adapter";
 
 	private Context mContext;
-	private static final int[] mBgColor = new int[] { R.color.list_bg_1,
+	public static final int[] mBgColor = new int[] { R.color.list_bg_1,
 			R.color.list_bg_2, R.color.list_bg_3, R.color.list_bg_4,
 			R.color.list_bg_5, R.color.list_bg_6, R.color.list_bg_7,
 			R.color.list_bg_8, R.color.list_bg_9, R.color.list_bg_10,
@@ -86,7 +86,6 @@ public class VideoDataAdapter extends CursorAdapter {
 
 	@Override
 	public Object getItem(int position) {
-
 		return null;
 	}
 

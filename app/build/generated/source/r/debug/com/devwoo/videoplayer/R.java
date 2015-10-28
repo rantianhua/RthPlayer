@@ -37,21 +37,23 @@ public final class R {
         public static final int ic_vidcontrol_pause=0x7f020002;
         public static final int ic_vidcontrol_play=0x7f020003;
         public static final int ic_vidcontrol_reload=0x7f020004;
-        public static final int scrubber_knob=0x7f020005;
+        public static final int music=0x7f020005;
+        public static final int scrubber_knob=0x7f020006;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a000c;
+        public static final int action_settings=0x7f0a000d;
         public static final int empty_view=0x7f0a0005;
-        public static final int movie_root_view=0x7f0a0007;
+        public static final int movie_root_view=0x7f0a0008;
         public static final int pagertitle=0x7f0a0001;
+        public static final int rl_bottom=0x7f0a0007;
         public static final int seekbar_progress=0x7f0a0004;
         public static final int tv_current_time=0x7f0a0002;
         public static final int tv_total_time=0x7f0a0003;
-        public static final int video_duration=0x7f0a000b;
+        public static final int video_duration=0x7f0a000c;
         public static final int video_list=0x7f0a0006;
-        public static final int video_name=0x7f0a000a;
-        public static final int video_thumbnail=0x7f0a0009;
-        public static final int video_view=0x7f0a0008;
+        public static final int video_name=0x7f0a000b;
+        public static final int video_thumbnail=0x7f0a000a;
+        public static final int video_view=0x7f0a0009;
         public static final int viewpager=0x7f0a0000;
     }
     public static final class layout {

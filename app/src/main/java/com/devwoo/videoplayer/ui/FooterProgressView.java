@@ -14,9 +14,7 @@ import com.devwoo.videoplayer.R;
  */
 public class FooterProgressView {
 
-    private View footerView;    //底部视图
-    private SeekBar seekBar;    //显示和控制进度
-    private TextView tvCurrentTime,tvTotalTime;    //显示当前已播放时间和总的时间
+
 
     /**
      * 构造函数，实例化底部进度视图
@@ -32,28 +30,7 @@ public class FooterProgressView {
      */
     private void initView(Context context) {
         LayoutInflater inflater = LayoutInflater.from(context);
-        footerView = (View) inflater.inflate(R.layout.footer_progress,null);
-        seekBar = (SeekBar) footerView.findViewById(R.id.seekbar_progress);
-        tvCurrentTime = (TextView) footerView.findViewById(R.id.tv_current_time);
-        tvTotalTime = (TextView) footerView.findViewById(R.id.tv_total_time);
 
-        seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
-            @Override
-            public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
-                //fromUser表示该变化是用户触发的
-
-            }
-
-            @Override
-            public void onStartTrackingTouch(SeekBar seekBar) {
-
-            }
-
-            @Override
-            public void onStopTrackingTouch(SeekBar seekBar) {
-
-            }
-        });
     }
 
 

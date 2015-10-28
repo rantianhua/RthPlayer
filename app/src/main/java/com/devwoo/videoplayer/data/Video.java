@@ -31,6 +31,7 @@ public class Video {
 			VideoColumns.MIME_TYPE, VideoColumns.DATA, VideoColumns.TITLE,
 			VideoColumns.DISPLAY_NAME, VideoColumns.DATE_MODIFIED,
 			VideoColumns.DURATION, VideoColumns.SIZE };
+
 	public static final String DEFAULT_ORDER = VideoColumns.DATE_MODIFIED
 			+ " DESC ";
 	
@@ -77,7 +78,6 @@ public class Video {
 		ContentResolver cr = context.getContentResolver();
 		Uri uri = ContentUris.withAppendedId(MediaStore.Video.Media.EXTERNAL_CONTENT_URI, videoId);
 		cr.delete(uri, "", null);
-		
 	}
 
 	/**

@@ -29,16 +29,16 @@ public class FragmentVideo extends Fragment implements
         LoaderManager.LoaderCallbacks<Cursor>,
         AdapterView.OnItemClickListener{
 
-    private VideoDataAdapter mAdapter;
-    private ListView mListView;
-    private View mEmptyView;
+    private VideoDataAdapter mAdapter;  //内容适配器
+    private ListView mListView; //展示视频内容
+    private View mEmptyView;    //没有视频时展示的空视图
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         mAdapter = new VideoDataAdapter(getActivity());
         mAdapter.registerDataSetObserver(new VideoDataObserver());
-        getLoaderManager().initLoader(0, null,this);
+        getLoaderManager().initLoader(0, null,this);    //加载视频
     }
 
     @Nullable

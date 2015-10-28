@@ -29,7 +29,7 @@ public class VideoUtils {
 			formatter.close();
 			return result;
 		} else {
-			result = formatter.format("%02d:%02d:%02d", hours, minutes, secs)
+			result = formatter.format("%02d:%02d", minutes, secs)
 					.toString();
 			formatter.close();
 			return result;

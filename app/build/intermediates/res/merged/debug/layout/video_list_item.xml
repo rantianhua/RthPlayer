@@ -28,4 +28,5 @@
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/video_thumbnail"
         android:layout_below="@id/video_name"/>
+
 </RelativeLayout><!-- From: file:/Users/mimashi1-8/AndroidStudioProjects/RthPlayer/app/src/main/res/layout/video_list_item.xml -->
